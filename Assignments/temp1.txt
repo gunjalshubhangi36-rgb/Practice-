@@ -1,0 +1,7 @@
+Name of student: Shubhangi
+Age of student: 21
+Marks of student: 80
+Name of student: 11
+Age of student: Pune
+Name of student: 11
+Age of student: Pune
